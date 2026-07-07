@@ -21,4 +21,4 @@ match op:
         print("Operação Inválida")
 print(f"O resultado da operação é {t}")
 print("teste de commit")
-
+print("teste de push pelo vscode")
