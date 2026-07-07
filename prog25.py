@@ -22,3 +22,4 @@ match op:
 print(f"O resultado da operação é {t}")
 print("teste de commit")
 print("teste de push pelo vscode")
+print("teste de push pelo vscode 2 ")
