@@ -1,0 +1,11 @@
+nomes = ["ana","marcos","bruno"]
+print(f"Listagem de nomes {nomes}")
+nomes.append("joão")
+print( f"Listagem de nomes Atualizada {nomes}")
+n = input("Digite um nome a ser excluido => ")
+nomes.remove(n)
+print(f"Listagem de nomes Atualizada Exclusão {nomes}")
+nomes.sort()
+print(f"Listagem de nomes ordenada {nomes}")
+l = len(nomes)
+print(f"A lista tem {l} itens")
